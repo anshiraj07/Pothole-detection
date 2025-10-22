@@ -1,0 +1,1 @@
+This project focuses on detecting potholes using computer vision and deep learning techniques. The model processes road images to identify and highlight potholes using OpenCV and YOLOv5. It aims to help automate road condition monitoring and assist in maintenance planning by providing a reliable way to detect damaged road surfaces efficiently.
